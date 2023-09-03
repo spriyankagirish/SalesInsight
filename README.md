@@ -10,10 +10,9 @@ Live Report [Link](https://app.powerbi.com/view?r=eyJrIjoiNDliM2YyNmYtMjliZS00OT
 AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of issues in terms of understanding how the business is performing and what are all the problem company is facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers to get the current status of the sales and market, as a human behaviour, these people sugar cote the truth and send tons of Excel files instead of disclosing the truth, which made the sales director more frustrated. Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
 
 # Solution
-Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
+To effectively manage AtliQ hardware's profitability and revenue contributions, a robust data analytics solution is recommended. This system will calculate critical metrics including profit margin, profit margin percentage, total revenue, revenue contribution percentage, revenue last year (Ly), sales quantity, and total profit margin.
 
-AIMS Grid
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
+By analyzing these metrics, AtliQ can gain insights into the performance of different product lines, customer segments, and market trends. This data-driven approach allows for informed decision-making regarding pricing strategies, product focus, and resource allocation. With a comprehensive understanding of profit margins, revenue contributions, and historical trends, AtliQ can optimize its operations to maximize profitability, reduce costs, and make strategic decisions to achieve its financial goals.
 # Data Model 
 ![Data Model](https://github.com/spriyankagirish/SalesInsight/assets/138349558/b691f6e0-d65e-4f61-b2e1-c33858a90007)
 # Key Insights 
