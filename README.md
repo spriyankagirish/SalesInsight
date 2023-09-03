@@ -15,9 +15,13 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 AIMS Grid
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
 # Data Model 
+![Data Model](https://github.com/spriyankagirish/SalesInsight/assets/138349558/b691f6e0-d65e-4f61-b2e1-c33858a90007)
 # Key Insights 
+![Key Insights ](https://github.com/spriyankagirish/SalesInsight/assets/138349558/daca22b2-6b02-4ab8-b42b-7212b5b1c40d)
 # Profit Analysis 
+![Profit Analysis](https://github.com/spriyankagirish/SalesInsight/assets/138349558/66f7e497-bb06-4027-814d-0b8b6bab35f7)
 # Performance Analysis 
+![Performance Insight](https://github.com/spriyankagirish/SalesInsight/assets/138349558/0dd208a8-3a11-4408-aa3b-69e79a6a0203)
 
 # Steps Followed in this project
 Performed a High level analysis of data in SQL to get better understanding over the data.
